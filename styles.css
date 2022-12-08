@@ -1,0 +1,198 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 5px;
+
+}
+
+header {
+    background-color: #4f80ff;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+    align-items: center;
+    font-size: larger;
+
+
+
+}
+
+.nav-bar {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 470px;
+    margin-top: -21px;
+
+
+}
+
+
+body {
+    margin: 0px;
+    padding-bottom: 58px;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    overflow-y: scroll;
+}
+
+.home-page-body {
+    height: 180vh;
+    background-color: #090C10;
+    resize: none;
+
+}
+
+footer {
+    background-color: #4f80ff;
+    padding: 15px;
+    height: 25px;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    position: fixed;
+    bottom: 0;
+    
+    
+}
+
+.foot {
+    margin-top: 3px;
+
+}
+
+.home-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 50%;
+
+
+
+
+}
+
+.home-image2 {
+    display: block;
+    margin-left: 100px;
+    margin-top: -510px;
+    
+
+}
+
+.home-image3 {
+    display: block;
+    margin-right: 100px;
+    margin-left: auto;
+    margin-top: -510px;
+    resize: horizontal;
+}
+
+button {
+    color: white;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding: 10px;
+    margin-bottom: -33px;
+    background-color: #090C10;
+    transition-duration: .3s;
+
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+
+}
+
+button:active {
+    background: white;
+    color: black;
+    box-shadow: 0 5px #090C10;
+    transform: translateY(3px);
+}
+
+.axial {
+    width: 330px;
+    height: 330px;
+    margin-bottom: -45vh;
+    margin-left: 9vh;
+}
+
+.dilatational {
+    width: 330px;
+    height: 330px;
+    margin-bottom: -45vh;
+    margin-left: 14vh;
+    
+
+}
+
+.grid {
+    width: 330px;
+    height: 330px;
+    margin-bottom: -45vh;
+    margin-left: 14vh;
+    
+
+}
+
+.random {
+    width: 330px;
+    height: 330px;
+    margin-bottom: -45vh;
+    margin-left: 14vh;
+}
+
+.radial {
+    width: 330px;
+    height: 330px;
+    margin-bottom: -110vh;
+    margin-left: 9vh;
+}
+
+.pi1 {
+    width: 330px;
+    height: 330px;
+    margin-bottom: -110vh;
+    margin-left: 14vh;
+
+}
+
+.pi2 {
+    width: 330px;
+    height: 330px;
+    margin-bottom: -110vh;
+    margin-left: 14vh;
+
+}
+
+.pi3 {
+    width: 330px;
+    height: 330px;
+    margin-bottom: -110vh;
+    margin-left: 14vh;
+
+}
+
+
+
